@@ -1,7 +1,7 @@
 package card
 
 import (
-	"github.com/jafarsirojov/bankapp/pkg/bank/types"
+	"bank/pkg/bank/types"
 )
 
 //PaymentSources -

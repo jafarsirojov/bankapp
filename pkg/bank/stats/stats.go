@@ -1,7 +1,7 @@
 package stats
 
 import (
-	"github.com/jafarsirojov/bankapp/pkg/bank/types"
+	"bank/pkg/bank/types"
 )
 
 //Avg -
